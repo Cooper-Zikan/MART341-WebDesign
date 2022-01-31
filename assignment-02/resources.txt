@@ -1,0 +1,3 @@
+A directory is a cataloging structure which contains references to computer files. The files are all organized within this directory and can be found though searching or scrolling. 
+ VCS are useful because we can craft effectives websites in a simplified manner. 
+ My favorite artistic medium is photography. This is due to my love for nature, and photography in my opinion captures my interest the most.
