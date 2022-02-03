@@ -1,0 +1,5 @@
+ A DNS translates domain names to IP addresses so browsers can load Internet resources.
+Cookies are small blocks of data created by a web server while a user is browsing a website and placed on the user's computer or other device by the user’s web browser.
+The protocol – HTTP or HTTPS.
+The domain name (including the TLD) that identifies a site.
+The path leading to a specific web page.
