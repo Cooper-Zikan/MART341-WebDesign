@@ -1,0 +1,3 @@
+For me, trying to learn html is not very easy. Making websites is much more difficult then I thought it would be. I started out struggling to understand the different elements involved. I have become better at html as I use it. html does have many fundamentals that you always need to have no matter what. I am still not super comfortable using html, but I am going to continue using it to learn more ways to properly use it. I still have a long way to go.
+I am very anxious about learning about CSS because its yet another thing that I need to learn when I feel I am still lacking in knowledge on using html. I am willing to learn it though so while I am anxious, I do enjoy learning!
+![ScreenshotA8](./images/screenshotA9.jpg)
