@@ -1,0 +1,57 @@
+body {
+  background-color: #6507B4;
+  font-family: inherit;
+  text-align: center;
+}
+
+div {
+Border: 10px solid #000000;
+display:inline-block;
+}
+
+img {
+  border-radius: 50%;
+  border:10px solid #000000;
+}
+
+.Elysium {
+background-color:#FD046E;
+Height:500px;
+width:500px;
+Display: inline-block;
+}
+
+#title {
+font-size: 50px;
+background-color:#DF1546;
+color:#000000;
+Margin: auto;
+}
+
+.pallete {
+background-color: white;
+Width: 450px;
+}
+
+.dot {
+Height: 100px;
+Width: 100px;
+border-radius: 50%;
+display:inline-block;
+}
+
+.dot.one {
+background-color: #6507B4;
+}
+
+.dot.two {
+background-color: #000000;
+}
+
+.dot.three {
+background-color: #FD046E;
+}
+
+.dot.four {
+background-color: #DF1546;
+}
