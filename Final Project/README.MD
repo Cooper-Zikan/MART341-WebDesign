@@ -1,3 +1,0 @@
-My testing sessions went decent. They gave me some ok feedback to use on the website. They recommended that I have my social media links on either the header or footer. I was also roasted for my turquiose color which I understand. I will likely change this to a more subtle palette. I wish they would have roasted me a bit more, but I cant expect brutal honesty from family. I am going to run another one before I submit my final draft.
-
-I will be adding the social media links on my footer, and I will slightly shift my colors. I also want to change my header a bit to better match my objectives for the website. After my mental health break I think I am fully ready to dive deep into this project. 
