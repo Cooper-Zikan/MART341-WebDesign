@@ -17,9 +17,24 @@ h1{
 
 
 .titleBorder{
-    height: 400px;
+    height: 375px;
     background-color: #5BD6D8;
     color: black;
+}
+.titleBorderAbout{
+  height: 200px;
+  background-color: #5BD6D8;
+  color: black;
+}
+.titleborderproducts{
+  height: 200px;
+  background-color: #5BD6D8;
+  color: black;
+}
+.titlebordercontact{
+  Height: 200px;
+  background-color: #5BD6D8;
+  color: black;
 }
 
 .titleBorder:hover{
@@ -72,6 +87,7 @@ h1{
 
 img {
     border: 10px solid #5BD6D8;
+    align: left
 }
 
 #img-link:hover{
@@ -167,4 +183,16 @@ header {
 
 #foundation:hover{
     border-radius: 0em 0em 1em 1em;
+}
+.subtitle{
+  Text-align: Center;
+}
+.Image1 {
+  Align: left;
+}
+.imageabout {
+  align: center;
+}
+.Image2 {
+Align: center;
 }
